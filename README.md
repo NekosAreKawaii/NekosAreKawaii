@@ -1,16 +1,12 @@
-### Hi there 👋
-
-<!--
-**NekosAreKawaii/NekosAreKawaii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me 
+Hi, I'm Adrian, a developer who likes to program Minecraft mods.
+<br>
+<br>
+You can contact me by using one of the options on my website.
+<br>
+My Discord Tag is also on my website.
+<br>
+<br>
+My website:
+<br>
+https://nekosarekawaii.de/
