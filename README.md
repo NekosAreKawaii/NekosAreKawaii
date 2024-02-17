@@ -1,5 +1,5 @@
 ## About me 
-Hi, I'm Adrian, a developer who likes to program Minecraft mods.
+Hi, I'm Adrian, I like to do funny stuff on the Internet.
 <br>
 <br>
 You can contact me by using one of the options on my website.
