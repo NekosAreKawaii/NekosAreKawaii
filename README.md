@@ -6,7 +6,7 @@ You can contact me by using one of the options on my website.
 <br>
 <br>
 My Discord Server:
-[Join](https://discord.gg/meduwuwyqp)
+[Join](https://nekosarekawaii.de/discord)
 <br>
 My website:
 [Open](https://nekosarekawaii.de/)
